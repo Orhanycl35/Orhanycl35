@@ -1,4 +1,4 @@
-[MasterHead](https://i.pinimg.com/564x/d6/e2/2d/d6e22dab955fb3013dada007ad4c7e73.jpg)
+![MasterHead](https://i.pinimg.com/564x/d6/e2/2d/d6e22dab955fb3013dada007ad4c7e73.jpg)
 <h1 align="center">Hi 👋, I'm Orhan YÜCEL</h1>
 <h3 align="center">A passionate frontend developer from TURKEY</h3>
 
